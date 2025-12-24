@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Create spaceship image
         const spaceship = document.createElement('img');
-        spaceship.src = './styles/spaceship.png';
+        spaceship.src = '../styles/spaceship.png';
         spaceship.style.cssText = `
             width: 100%;
             height: auto;
